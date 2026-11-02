@@ -9,18 +9,18 @@ The user enters the number of processes and the arrival time and burst time of e
 
 ## How to Run
 
-On Linux, open a terminal in the folder containing `scheduling.c`.
+On Linux, open a terminal in the folder containing `hw7.c`.
 
 Compile the program:
 
 ```bash
-gcc scheduling.c -o scheduling
+gcc hw7.c -o hw7
 ```
 
 Run it:
 
 ```bash
-./scheduling
+./hw7
 ```
 
 ## Example Input
